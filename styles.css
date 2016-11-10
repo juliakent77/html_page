@@ -7,3 +7,17 @@ h1 {
 p {
   color:blue;
 }
+
+
+h1#header1 {
+  color:lavender;
+  background-image: url(http://placekitten.com/200/300);
+}
+
+.centerimage {
+  text-align: center;
+}
+
+td.city-cell {
+  background: red;
+}
